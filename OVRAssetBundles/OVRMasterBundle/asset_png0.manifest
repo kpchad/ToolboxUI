@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 3819066308
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a0436f3938324cfe54d89286702abf28
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cb3f6df5cbc4a2990c44c2787bc9553a
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/VRTK/LegacyExampleFiles/ExampleResources/Images/Unity.png
+- Assets/VRTK/Source/Editor/Icons/vrtk_script_usable.png
+- Assets/VRTK/Internal/Textures/Crosshair.png
+- Assets/VRTK/Source/Editor/Icons/vrtk_script_prefab.png
+Dependencies: []

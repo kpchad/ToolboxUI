@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 3599526103
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2f75aa5949412e3bf108a4b5eeb4c7a5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a15026e7645264409a88f84f584030a1
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/VRTK/LegacyExampleFiles/ExampleResources/Materials/Simple_Solid_Colors/Yellow.mat
+- Assets/VRTK/LegacyExampleFiles/ExampleResources/Materials/Simple_Solid_Colors/White.mat
+Dependencies: []

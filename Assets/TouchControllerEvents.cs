@@ -20,18 +20,14 @@ namespace OVRTouchSample
         {
             // if left controller "A" is pressed
             if (OVRInput.Get(OVRInput.Button.Four) == true) {
-                if (toolbox.activeSelf == false)
-                {
+
                     //show tool assets
                     toolbox.SetActive(true);
-                }
-                else
-                {
+                
+            } else  {
                     //hide tool assets
                     toolbox.SetActive(false);
                 }
-                
-            }
 
             
         }

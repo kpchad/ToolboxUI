@@ -1,0 +1,100 @@
+ManifestFileVersion: 0
+CRC: 722692303
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 382a48e4a76a80287ecf4286f9524d33
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f4f298b46bc52a2afe513ceb7f7a4ec8
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 109
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: ad074644ff568a14187a3690cfbd7534, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 70c2f484f132c044097f03d65cac3b24, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b3d881e962d099f4a8eb492ef7e9a8c0, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+Assets:
+- Assets/Oculus/Avatar/Resources/FallbackTextures/fallback_diffuse_roughness_2048.png
+- Assets/VRTK/Internal/Materials/Resources/SnapDropZoneEditorObject.mat
+- Assets/Oculus/Avatar/Resources/FallbackTextures/fallback_diffuse_roughness_256.png
+- Assets/VRTK/Source/SDK/Fallback/Resources/ControllerColliders/Fallback.prefab
+- Assets/Oculus/Avatar/Resources/Materials/Version1.5/Avatar_PC_SingleComponent.shader
+- Assets/Oculus/VR/Resources/OVRMRUnlitTransparent.shader
+- Assets/Oculus/Avatar/Resources/FallbackTextures/fallback_normal_2048.png
+- Assets/VRTK/Source/SDK/SteamVR/Resources/ControllerColliders/SteamVRWindowsMRController_Left.prefab
+- Assets/Oculus/VR/Resources/OVRMRChromaKey.cginc
+- Assets/Oculus/SampleFramework/Core/Video/Resources/Multiview Stereo.shader
+- Assets/VRTK/Source/SDK/HyperealVR/Resources/ControllerColliders/HyperealSens.prefab
+- Assets/VRTK/Internal/Materials/Resources/TunnelOverlay.mat
+- Assets/Oculus/Avatar/Resources/Materials/Version1.5/Avatar_Mobile_Loader.shader
+- Assets/Resources/OvrAvatarSettings.asset
+- Assets/VRTK/Internal/Materials/Resources/TooltipLine.mat
+- Assets/VRTK/Source/SDK/Ximmerse/Resources/ControllerColliders/XimmerseCobra02.prefab
+- Assets/Resources/OVRBuildConfig.asset
+- Assets/VRTK/Source/SDK/SteamVR/Resources/ControllerColliders/SteamVRWindowsMRController_Right.prefab
+- Assets/Oculus/VR/Resources/Cubemap Blit.shader
+- Assets/Oculus/VR/Resources/OVRMRUnlit.shader
+- Assets/VRTK/Internal/Materials/Resources/AdaptiveQualityDebugVisualization.mat
+- Assets/Oculus/Avatar/Resources/Materials/AvatarSurfaceShaderSelfOccluding.shader
+- Assets/Oculus/VR/Resources/Unlit Transparent Color.shader
+- Assets/VRTK/Internal/Materials/Resources/UIText.mat
+- Assets/VRTK/Source/SDK/SteamVR/Resources/ControllerColliders/HTCVive.prefab
+- Assets/Oculus/Avatar/Resources/Materials/AvatarSurfaceShaderPBS.shader
+- Assets/Oculus/VR/Resources/OVRMRCameraFrameLit.shader
+- Assets/Oculus/Avatar/Resources/Materials/Version1.5/Avatar_Mobile_CombinedMesh.shader
+- Assets/Oculus/Avatar/Resources/Materials/Expressive/Avatar_Mobile_CombinedMeshExpressive.shader
+- Assets/Oculus/VR/Resources/Underlay Transparent Occluder.shader
+- Assets/Oculus/VR/Resources/Texture2D Blit.shader
+- Assets/Oculus/Avatar/Resources/Materials/Expressive/Avatar_PC_SingleComponentExpressive.shader
+- Assets/Oculus/Avatar/Resources/Materials/AvatarPBRV2Simple.shader
+- Assets/Oculus/Avatar/Resources/FallbackTextures/fallback_normal_256.png
+- Assets/Oculus/Avatar/Resources/Materials/Expressive/Avatar_Mobile_SingleComponentExpressive.shader
+- Assets/Resources/ONSPSettings.asset
+- Assets/VRTK/Source/SDK/Oculus/Resources/ControllerColliders/OculusTouch_Left.prefab
+- Assets/Oculus/VR/Resources/OVRMRCameraFrame.shader
+- Assets/Oculus/Avatar/Resources/Materials/AvatarSurfaceShaderPBSV2.shader
+- Assets/VRTK/Source/SDK/SteamVR/Resources/ControllerColliders/SteamVROculusTouch_Left.prefab
+- Assets/Oculus/VR/Resources/OVRMRClipPlane.shader
+- Assets/VRTK/Internal/Materials/Resources/WorldPointer.mat
+- Assets/VRTK/Internal/Materials/Resources/OutlineBasic.mat
+- Assets/VRTK/Source/SDK/SteamVR/Resources/ControllerColliders/ValveKnuckles_Left.prefab
+- Assets/Oculus/Avatar/Resources/FallbackTextures/fallback_diffuse_roughness_1024.png
+- Assets/Resources/OculusPlatformSettings.asset
+- Assets/VRTK/Internal/Materials/Resources/DirectionArrows.mat
+- Assets/Oculus/Avatar/Resources/Materials/Version1.5/Avatar_Mobile_SingleComponent.shader
+- Assets/Oculus/Avatar/Resources/Materials/AvatarMaterialStateShader.cginc
+- Assets/Oculus/Avatar/Resources/Materials/Expressive/AvatarEyeLens.shader
+- Assets/Oculus/Avatar/Resources/Materials/AvatarSurfaceShader.shader
+- Assets/Oculus/Avatar/Resources/FallbackTextures/fallback_normal_1024.tif
+- Assets/VRTK/Source/SDK/SteamVR/Resources/ControllerColliders/ValveKnuckles_Right.prefab
+- Assets/VRTK/Source/SDK/SteamVR/Resources/ControllerColliders/SteamVROculusTouch_Right.prefab
+- Assets/Oculus/VR/Resources/Underlay Impostor.shader
+- Assets/VRTK/Source/SDK/Oculus/Resources/ControllerColliders/OculusTouch_Right.prefab
+- Assets/VRTK/Source/SDK/Simulator/Resources/ControllerColliders/Simulator.prefab
+Dependencies: []

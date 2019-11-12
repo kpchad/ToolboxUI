@@ -17,4 +17,7 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/GoodUX.unity
     guid: 9b6d353e41a5cf34ea5faa934ba3127f
+  - enabled: 0
+    path: Assets/VRTK/LegacyExampleFiles/034_Controls_InteractingWithUnityUI.unity
+    guid: 2ce499512664316478fc7632f4bb4674
   m_configObjects: {}
